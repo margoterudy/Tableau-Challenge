@@ -3,6 +3,8 @@ Showing off Jupyter notebook and Tableau Skills
 
 ![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
 
+Tableau presentation can be found here: https://public.tableau.com/app/profile/margoterudy/viz/CitibikeTableau_16435096754730/Citibike
+
 Congratulations on your new job! As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
